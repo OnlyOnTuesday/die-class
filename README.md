@@ -1,2 +1,2 @@
 # Git Lab #2
-## Second team member: <Enter your name here>
+## First team member: Michael Cooney
