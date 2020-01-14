@@ -1,2 +1,2 @@
-# Git Lab #2
-## second team member: Zion
+# the second Git lab
+## second team member: Zion Klinger
