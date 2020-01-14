@@ -12,3 +12,16 @@ error: Committing is not possible because you have unmerged files.
 hint: Fix them up in the work tree, and then use 'git add/rm <file>'
 hint: as appropriate to mark resolution and make a commit.
 fatal: Exiting because of an unresolved conflict.
+
+3. * master
+
+4. * header
+     master
+
+5.  die.h	  extrafile.txt     '#README.md#'   ridiculousFile.md
+    die.h~   first-answers.md   README.md	    second-answers.md
+
+6. die.h~		'#first-answers.md#'  '#README.md#'   ridiculousFile.md
+   extrafile.txt	 first-answers.md      README.md      second-answers.md
+
+7. No, but it's backup file is.
