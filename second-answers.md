@@ -18,3 +18,9 @@ fatal: Exiting because of an unresolved conflict.
 #Answer 3.
   implement
 * master
+
+#Answer 4.
+extrafile.txt  first-answers.md  README.md  ridiculousFile.md  second-answers.md
+
+#Answer 5.
+
