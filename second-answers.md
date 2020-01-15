@@ -20,6 +20,8 @@ fatal: Exiting because of an unresolved conflict.
 * master
 
 #Answer 4.
+* implement
+  master
 
 
 #Answer 5.
