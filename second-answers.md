@@ -29,3 +29,7 @@ die.cc  first-answers.md  README.md  second-answers.md
 
 #Answer 6.
 extrafile.txt  first-answers.md  README.md  ridiculousFile.md  second-answers.md
+
+#Answer 7.
+The implementation and header files are not on the master branch
+
