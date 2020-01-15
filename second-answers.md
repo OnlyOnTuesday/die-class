@@ -20,7 +20,7 @@ fatal: Exiting because of an unresolved conflict.
 * master
 
 #Answer 4.
-extrafile.txt  first-answers.md  README.md  ridiculousFile.md  second-answers.md
+
 
 #Answer 5.
-
+extrafile.txt  first-answers.md  README.md  ridiculousFile.md  second-answers.md
