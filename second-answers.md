@@ -25,4 +25,7 @@ fatal: Exiting because of an unresolved conflict.
 
 
 #Answer 5.
+die.cc  first-answers.md  README.md  second-answers.md
+
+#Answer 6.
 extrafile.txt  first-answers.md  README.md  ridiculousFile.md  second-answers.md
